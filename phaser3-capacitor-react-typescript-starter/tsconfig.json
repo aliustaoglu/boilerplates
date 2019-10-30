@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./www/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "skipLibCheck" : true,
+    "esModuleInterop": true,
+    "typeRoots": ["./node_modules/@types", "./custom_typings"]
+  },
+  "include" : [
+      "./src/**/*"
+  ],
+  "exclude" : [
+      "./test/**/*"
+  ]
+}

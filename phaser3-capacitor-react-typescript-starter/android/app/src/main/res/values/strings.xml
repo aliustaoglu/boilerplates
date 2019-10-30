@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Phaser3CapacitorReactTypeScript</string>
+    <string name="title_activity_main">Phaser3CapacitorReactTypeScript</string>
+    <string name="package_name">biz.aliustaoglu.starters.phaser3capacitorreacttypescript</string>
+    <string name="custom_url_scheme">biz.aliustaoglu.starters.phaser3capacitorreacttypescript</string>
+</resources>
