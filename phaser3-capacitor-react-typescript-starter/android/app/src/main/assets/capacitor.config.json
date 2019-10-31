@@ -1,8 +1,0 @@
-{
-  "appId": "biz.aliustaoglu.starters.phaser3capacitorreacttypescript",
-  "appName": "Phaser3CapacitorReactTypeScript",
-  "bundledWebRuntime": false,
-  "npmClient": "yarn",
-  "webDir": "www",
-  "cordova": {}
-}
